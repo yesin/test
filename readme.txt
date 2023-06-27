@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of file.
 Create new branch dev.
+Use git switch -c dev, create and switch branch dev.
