@@ -5,3 +5,4 @@ Git tracks changes of file.
 Create new branch dev.
 Use git switch -c dev, create and switch branch dev.
 Create branch quick and simple.
+Switch to a new branch dev.
