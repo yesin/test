@@ -6,3 +6,4 @@ Create new branch dev.
 Use git switch -c dev, create and switch branch dev.
 Create branch quick and simple.
 Switch to a new branch dev.
+Git stash method of use.
